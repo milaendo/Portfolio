@@ -1678,7 +1678,7 @@
 
 	body {
 		background-color: #ffffff;
-		color: #000000;
+		color: #658371;
 	}
 
 	body, input, select, textarea {
@@ -1849,7 +1849,7 @@
 	}
 
 		a:hover {
-			color: #47D3E5;
+			color: #658371;
 		}
 
 	strong, b {
@@ -1857,7 +1857,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #000000;
+		color: #658371;
 	}
 
 	blockquote {
@@ -2005,7 +2005,7 @@
 	.button {
 		background-color: transparent;
 		box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
-		color: #000000 !important;
+		color: #658371 !important;
 	}
 
 		input[type="submit"]:hover,
@@ -2013,8 +2013,8 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 1px #47D3E5;
-			color: #47D3E5 !important;
+			box-shadow: inset 0 0 0 1px #658371;
+			color: #658371 !important;
 		}
 
 		input[type="submit"]:active,
@@ -2023,8 +2023,8 @@
 		button:active,
 		.button:active {
 			background-color: rgba(71, 211, 229, 0.2);
-			box-shadow: inset 0 0 0 1px #47D3E5;
-			color: #47D3E5 !important;
+			box-shadow: inset 0 0 0 1px #658371;
+			color: #658371 !important;
 		}
 
 		input[type="submit"].special,
@@ -2042,7 +2042,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #47D3E5;
+				background-color: #658371;
 			}
 
 			input[type="submit"].special:active,
@@ -2335,8 +2335,8 @@
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #47D3E5;
-			box-shadow: 0 0 0 1px #47D3E5;
+			border-color: #658371;
+			box-shadow: 0 0 0 1px #658371;
 		}
 
 	.select-wrapper:before {
@@ -2362,8 +2362,8 @@
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #47D3E5;
-		box-shadow: 0 0 0 1px #47D3E5;
+		border-color: #658371;
+		box-shadow: 0 0 0 1px #658371;
 	}
 
 	::-webkit-input-placeholder {
@@ -2393,6 +2393,7 @@
 		border-bottom: none;
 		position: relative;
 		text-align: center;
+		color: #658371;
 	}
 
 		.icon:before {
@@ -2437,14 +2438,14 @@
 	}
 
 	a.icon.style2:hover:before {
-		box-shadow: inset 0 0 0 1px #47D3E5;
-		color: #47D3E5;
+		box-shadow: inset 0 0 0 1px #658371;
+		color: #658371;
 	}
 
 	a.icon.style2:active:before {
 		background-color: rgba(71, 211, 229, 0.1);
-		box-shadow: inset 0 0 0 1px #47D3E5;
-		color: #47D3E5;
+		box-shadow: inset 0 0 0 1px #658371;
+		color: #658371;
 	}
 
 /* Image */
@@ -6183,7 +6184,7 @@
 		}
 
 			.gallery.style1 a:hover {
-				color: #47D3E5;
+				color: #658371;
 			}
 
 		.gallery.style1 strong, .gallery.style1 b {
@@ -6222,8 +6223,8 @@
 			.gallery.style1 input[type="button"]:hover,
 			.gallery.style1 button:hover,
 			.gallery.style1 .button:hover {
-				box-shadow: inset 0 0 0 1px #47D3E5;
-				color: #47D3E5 !important;
+				box-shadow: inset 0 0 0 1px #658371;
+				color: #658371 !important;
 			}
 
 			.gallery.style1 input[type="submit"]:active,
@@ -6232,8 +6233,8 @@
 			.gallery.style1 button:active,
 			.gallery.style1 .button:active {
 				background-color: rgba(71, 211, 229, 0.2);
-				box-shadow: inset 0 0 0 1px #47D3E5;
-				color: #47D3E5 !important;
+				box-shadow: inset 0 0 0 1px #658371;
+				color: #658371 !important;
 			}
 
 			.gallery.style1 input[type="submit"].special,
@@ -6251,7 +6252,7 @@
 				.gallery.style1 input[type="button"].special:hover,
 				.gallery.style1 button.special:hover,
 				.gallery.style1 .button.special:hover {
-					background-color: #47D3E5;
+					background-color: #658371;
 				}
 
 				.gallery.style1 input[type="submit"].special:active,
@@ -6513,7 +6514,7 @@
 		}
 
 			.gallery.style2 a:hover {
-				color: #47D3E5;
+				color: #658371;
 			}
 
 		.gallery.style2 strong, .gallery.style2 b {
@@ -6552,8 +6553,8 @@
 			.gallery.style2 input[type="button"]:hover,
 			.gallery.style2 button:hover,
 			.gallery.style2 .button:hover {
-				box-shadow: inset 0 0 0 1px #47D3E5;
-				color: #47D3E5 !important;
+				box-shadow: inset 0 0 0 1px #658371;
+				color: #658371 !important;
 			}
 
 			.gallery.style2 input[type="submit"]:active,
@@ -6562,8 +6563,8 @@
 			.gallery.style2 button:active,
 			.gallery.style2 .button:active {
 				background-color: rgba(71, 211, 229, 0.2);
-				box-shadow: inset 0 0 0 1px #47D3E5;
-				color: #47D3E5 !important;
+				box-shadow: inset 0 0 0 1px #658371;
+				color: #658371 !important;
 			}
 
 			.gallery.style2 input[type="submit"].special,
@@ -6581,7 +6582,7 @@
 				.gallery.style2 input[type="button"].special:hover,
 				.gallery.style2 button.special:hover,
 				.gallery.style2 .button.special:hover {
-					background-color: #47D3E5;
+					background-color: #658371;
 				}
 
 				.gallery.style2 input[type="submit"].special:active,
@@ -8084,7 +8085,7 @@
 			}
 
 				#wrapper > .invert a:hover {
-					color: #47D3E5;
+					color: #658371;
 				}
 
 			#wrapper > .invert strong, #wrapper > .invert b {
@@ -8127,8 +8128,8 @@
 				#wrapper > .invert input[type="button"]:hover,
 				#wrapper > .invert button:hover,
 				#wrapper > .invert .button:hover {
-					box-shadow: inset 0 0 0 1px #47D3E5;
-					color: #47D3E5 !important;
+					box-shadow: inset 0 0 0 1px #658371;
+					color: #658371 !important;
 				}
 
 				#wrapper > .invert input[type="submit"]:active,
@@ -8137,8 +8138,8 @@
 				#wrapper > .invert button:active,
 				#wrapper > .invert .button:active {
 					background-color: rgba(71, 211, 229, 0.2);
-					box-shadow: inset 0 0 0 1px #47D3E5;
-					color: #47D3E5 !important;
+					box-shadow: inset 0 0 0 1px #658371;
+					color: #658371 !important;
 				}
 
 				#wrapper > .invert input[type="submit"].special,
@@ -8156,7 +8157,7 @@
 					#wrapper > .invert input[type="button"].special:hover,
 					#wrapper > .invert button.special:hover,
 					#wrapper > .invert .button.special:hover {
-						background-color: #47D3E5;
+						background-color: #658371;
 					}
 
 					#wrapper > .invert input[type="submit"].special:active,
@@ -8190,8 +8191,8 @@
 				#wrapper > .invert input[type="url"]:focus,
 				#wrapper > .invert select:focus,
 				#wrapper > .invert textarea:focus {
-					border-color: #47D3E5;
-					box-shadow: 0 0 0 1px #47D3E5;
+					border-color: #658371;
+					box-shadow: 0 0 0 1px #658371;
 				}
 
 			#wrapper > .invert .select-wrapper:before {
@@ -8217,8 +8218,8 @@
 
 			#wrapper > .invert input[type="checkbox"]:focus + label:before,
 			#wrapper > .invert input[type="radio"]:focus + label:before {
-				border-color: #47D3E5;
-				box-shadow: 0 0 0 1px #47D3E5;
+				border-color: #658371;
+				box-shadow: 0 0 0 1px #658371;
 			}
 
 			#wrapper > .invert ::-webkit-input-placeholder {
@@ -8246,14 +8247,14 @@
 			}
 
 			#wrapper > .invert a.icon.style2:hover:before {
-				box-shadow: inset 0 0 0 1px #47D3E5;
-				color: #47D3E5;
+				box-shadow: inset 0 0 0 1px #658371;
+				color: #658371;
 			}
 
 			#wrapper > .invert a.icon.style2:active:before {
 				background-color: rgba(71, 211, 229, 0.1);
-				box-shadow: inset 0 0 0 1px #47D3E5;
-				color: #47D3E5;
+				box-shadow: inset 0 0 0 1px #658371;
+				color: #658371;
 			}
 
 			#wrapper > .invert ul.alt li {
